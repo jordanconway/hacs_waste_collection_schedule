@@ -4421,6 +4421,22 @@
       "id": "ics_recollect"
     },
     {
+      "title": "Pointe-Claire Sector A (QC)",
+      "module": "pointe_claire_qc_ca",
+      "default_params": {
+        "sector": "A"
+      },
+      "id": "pointe_claire_qc_ca"
+    },
+    {
+      "title": "Pointe-Claire Sector B (QC)",
+      "module": "pointe_claire_qc_ca",
+      "default_params": {
+        "sector": "B"
+      },
+      "id": "pointe_claire_qc_ca"
+    },
+    {
       "title": "Prince George (BC)",
       "module": "recyclecoach_com",
       "default_params": {},
