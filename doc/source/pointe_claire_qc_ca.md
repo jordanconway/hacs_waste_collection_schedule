@@ -25,13 +25,13 @@ Visit the [City of Pointe-Claire waste management page](https://www.pointe-clair
 
 ## Collection Types
 
-| Type | Description |
-|------|-------------|
-| Organic Waste | Weekly — every Monday |
-| Recyclables | Weekly — every Wednesday (blue box) |
-| Household Waste | Bi-weekly — every second Tuesday (Sector A) or every second Thursday (Sector B) |
-| Bulky Items | Monthly — first Wednesday of each month |
-| Christmas Tree Collection | Special pickup in early January |
+| Type | Sector A | Sector B |
+|------|----------|----------|
+| Organic Waste | Weekly — every Monday | Weekly — every Monday |
+| Recyclables | Weekly — every Wednesday | Weekly — every Wednesday |
+| Household Waste | Every second Tuesday | Every second Thursday |
+| Bulky Items | First Wednesday of each month | First Wednesday of each month |
+| Christmas Tree Collection | Jan 7 & 14 | Jan 6 & 13 |
 
 ## Example
 
