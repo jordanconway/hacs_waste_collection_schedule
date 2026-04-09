@@ -65,7 +65,7 @@ class Source:
                 "sector", self._sector, list(SECTOR_URL_MAP.keys())
             )
 
-        r = requests.get(url)
+        r = requests.get(url, timeout=30)
         r.raise_for_status()
 
         dates = self._ics.convert(r.text)
