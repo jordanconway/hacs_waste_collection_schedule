@@ -4498,19 +4498,9 @@
       "id": "ics_recollect"
     },
     {
-      "title": "Pointe-Claire Sector A (QC)",
+      "title": "Pointe-Claire (QC)",
       "module": "pointe_claire_qc_ca",
-      "default_params": {
-        "sector": "A"
-      },
-      "id": "pointe_claire_qc_ca"
-    },
-    {
-      "title": "Pointe-Claire Sector B (QC)",
-      "module": "pointe_claire_qc_ca",
-      "default_params": {
-        "sector": "B"
-      },
+      "default_params": {},
       "id": "pointe_claire_qc_ca"
     },
     {
